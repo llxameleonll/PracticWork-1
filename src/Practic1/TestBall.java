@@ -1,4 +1,4 @@
-package Exercise_1;
+package Practic1;
 
 public class TestBall {
 

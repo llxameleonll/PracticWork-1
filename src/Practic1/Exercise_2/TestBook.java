@@ -1,4 +1,4 @@
-package Exercise_2;
+package Practic1.Exercise_2;
 
 public class TestBook {
 
